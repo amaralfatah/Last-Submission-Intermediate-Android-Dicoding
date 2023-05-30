@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Intermediate Android</string>
+    <string name="deskripsi">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</string>
+    <string name="nama_lengkap">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="date">Date</string>
+    <string name="hint_tulis_deskripsi">Write a description...</string>
+    <string name="tv_deskripsi">Description</string>
+    <string name="tv_upload_foto">Upload Photo</string>
+    <string name="logout">Logout</string>
+    <string name="language">Language</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="belumpunyaakun">Do not have an account yet?</string>
+    <string name="klikdisini">click here!</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="coba_lagi">Retry</string>
+</resources>
